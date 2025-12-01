@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a business IT student majoring in software development from Finland.
+I am a junior developer from Finland.
 
 - 🌱 I’m currently learning full stack programming & ReactJS
 - 📘 My hobbies are comics, games, crafting and scouting.
@@ -45,6 +45,10 @@ I am a business IT student majoring in software development from Finland.
 
 - - -
 
+<!-- Not showing Top Languages since the maintainer has paused the development of the app
+
 ### 🔝 Top Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faltzuthewiz&layout=compact&theme=vision-friendly-dark)](https://github.com/faltzuthewiz/github-readme-stats)
+
+-->
